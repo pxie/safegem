@@ -1,6 +1,8 @@
 SafeGem: GitHub's Safe Gem Eval Web Service
 -------------------------------------------
 
+Test for Pin ~!@#$%^&*()
+
 Help make GitHub's gem build process more secure and robust!
 
 SafeGem is a Sinatra app that safely converts Ruby gemspecs into YAML gemspecs.
